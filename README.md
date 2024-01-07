@@ -1,1 +1,1 @@
-game tampilan sederhana dengan framework three.js
+tampilan circle sederhana dengan library three.js
